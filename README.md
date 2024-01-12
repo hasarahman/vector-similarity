@@ -9,7 +9,7 @@ This notebook guides you through using Neon Serverless Postgres as a vector data
    
 4. Use Neon with the pgvector extension to perform vector similarity search.
 
-I chose Neon because Neon it supports the pgvector open-source extension, which enables Postgres as a vector database for storing and querying vector embeddings. You'll see in the notebook that I've created a sql table to organize my embeddings.
+I chose Neon because it supports the pgvector open-source extension, which enables Postgres as a vector database for storing and querying vector embeddings. You'll see in the notebook that I've created a sql table to organize my embeddings.
 
 Some issues I ran into:
 
